@@ -1,0 +1,252 @@
+{
+    "os": "Linux-4.15.0-212-generic-x86_64-with-glibc2.27",
+    "python": "3.10.8",
+    "heartbeatAt": "2024-01-31T19:32:25.111446",
+    "startedAt": "2024-01-31T19:32:22.687119",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home2/suyash.mathur/semeval24/task3/last_resort/finetune_deberta.py",
+    "codePathLocal": "finetune_deberta.py",
+    "codePath": "finetune_deberta.py",
+    "git": {
+        "remote": "git@github.com:akshettrj/semeval2024_task03.git",
+        "commit": "c0271fad6f77261485cbf7799a0813240a3dafc5"
+    },
+    "email": "suyash.mathur@research.iiit.ac.in",
+    "root": "/home2/suyash.mathur/semeval24/task3/last_resort",
+    "host": "gnode002",
+    "username": "suyash.mathur",
+    "executable": "/home2/suyash.mathur/anaconda3/envs/mindeye/bin/python3",
+    "cpu_count": 20,
+    "cpu_count_logical": 40,
+    "cpu_freq": {
+        "current": 1.3851750000000007,
+        "min": 1200.0,
+        "max": 3400.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1.202,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.204,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.503,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.292,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.623,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.203,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.498,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.204,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.202,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.203,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3.366,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.468,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.203,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.202,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.203,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.203,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.203,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.203,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.203,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.2,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.201,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.201,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.455,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.287,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.457,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.201,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 2.049,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.2,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.201,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.201,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3.399,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.501,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.2,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.201,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.2,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.201,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.201,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.2,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.201,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1.2,
+            "min": 1200.0,
+            "max": 3400.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 136.48257064819336,
+            "used": 100.66726684570312
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 1080 Ti",
+    "gpu_count": 2,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1080 Ti",
+            "memory_total": 11811160064
+        },
+        {
+            "name": "NVIDIA GeForce GTX 1080 Ti",
+            "memory_total": 11811160064
+        }
+    ],
+    "memory": {
+        "total": 125.7869987487793
+    }
+}
